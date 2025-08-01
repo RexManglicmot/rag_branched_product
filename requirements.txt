@@ -1,0 +1,27 @@
+# Core 
+pandas
+numpy
+tqdm
+
+# Embeddings and Retrieval
+sentence-transformers
+faiss-cpu
+
+# LLM Access (Hugging Face)
+huggingface-hub
+
+# Web interfaces
+fastapi
+uvicorn
+
+# UI
+streamlit
+
+# Logging & Config (core comes with Python, just to include for clarity)
+python-dotenv
+
+# Testing
+pytest
+
+# Other (for .env, YAML configs, etc.)
+PyYAML
